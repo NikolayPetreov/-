@@ -1,5 +1,4 @@
 # -
-код с фигурами
 from tkinter import *
 from random import *
 
